@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction using Machine Learning
+# 🩺 Diabetes Prediction System using Machine Learning Algorithms
 
 A machine learning–based diabetes prediction system designed to assist in early detection by analyzing patient health parameters.
 
